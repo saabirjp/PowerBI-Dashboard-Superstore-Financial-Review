@@ -11,5 +11,4 @@ The dashboard can be filtered by dates, region and city if the manager wishes to
 ![PB2](PB2.jpg) 
 Dashboard interactively changes after you make a selection, in this case, filter for the West region.
 
-
-Link to access the interactive dashboard: [Superstore Analytics](https://app.powerbi.com/reportEmbed?reportId=46c0dd0d-0867-43dc-951d-e81755d2d844&autoAuth=true&ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9) 
+You can download the interactive dashboard from this repository or else use this link to access it: [Superstore Analytics](https://app.powerbi.com/reportEmbed?reportId=46c0dd0d-0867-43dc-951d-e81755d2d844&autoAuth=true&ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9) 
